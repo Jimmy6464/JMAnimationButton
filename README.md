@@ -1,2 +1,2 @@
 # JMAnimationButton
-![image](https://github.com/oujinlong/OJLAnimationButton/blob/master/1.gif)
+![result](https://github.com/Jimmy6464/JMAnimationButton/blob/master/result.gif)
